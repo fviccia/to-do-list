@@ -1,3 +1,5 @@
+As i will revisited the curriculum this project is now archived and deprecated.
+
 # To-Do-List
 I made this project following The Odin Project Curriculum according to the following assigment.
 
